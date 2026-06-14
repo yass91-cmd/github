@@ -1,8 +1,1 @@
-# برنامج لحساب مجموع عددين
-
-a = int(input("أدخل العدد الأول: "))
-b = int(input("أدخل العدد الثاني: "))
-
-somme = a + b
-
-print("المجموع =", somme)
+print("Hello, World!")
